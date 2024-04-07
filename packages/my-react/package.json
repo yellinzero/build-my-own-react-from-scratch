@@ -1,0 +1,7 @@
+{
+  "name": "my-react",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "author": "Yellin <yelin.hu@recurvedata.com>",
+  "license": "MIT"
+}
