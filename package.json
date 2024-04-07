@@ -1,0 +1,17 @@
+{
+  "name": "build-my-own-react-from-scratch",
+  "version": "0.1.0",
+  "description": "Learn from the react codebase and build my own react from scratch!",
+  "repository": "https://github.com/yellinzero/build-my-own-react-from-scratch.git",
+  "author": "Yellin <yelin.hu@recurvedata.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "confusing-browser-globals": "^1.0.11",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0"
+  }
+}
